@@ -2,7 +2,8 @@
 
 <img width="500" height="500" alt="ratcrate-vector" src="https://github.com/user-attachments/assets/01f61be3-4a7c-4bac-a125-01a9f03269e5" />
 
-> A curated registry of **ratatui**-powered terminal applications
+
+> A curated registry of **ratatui** - powered terminal applications
 
 Ratcrate is your go-to resource for discovering terminal user interface (TUI) applications built with [ratatui](https://github.com/ratatui-org/ratatui). We maintain an up-to-date catalog of ratatui-based projects to help developers find inspiration and users discover powerful terminal applications.
 
