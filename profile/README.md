@@ -32,13 +32,13 @@ ratcrate-core (data pipeline - Private Repo)
 
 Visit [ratcrate.github.io](https://ratcrate.github.io) to explore the full catalog of ratatui applications.
 
-## 🛠️ Tools & Projects
+## 🛠️ ♾️ Tools & Projects
 
 - **[ratcrate-web](https://github.com/ratcrate/ratcrate-web)** - Web interface for browsing the registry. Updated every 24 hours
 - **[ratcrate-cli](https://github.com/ratcrate/ratcrate-cli)** - Command-line tool for searching and discovering ratatui apps
 - **[ratcrate-tui](https://github.com/ratcrate/ratcrate-tui)** - Terminal user interface for exploring the registry (built with ratatui, naturally!)
 
-## 🎯 Why Ratcrate?
+## 🔵 ♾️ Why Ratcrate?
 
 Ratatui is powering a new generation of terminal applications, and I want to make it easy to:
 - Discover quality TUI applications
@@ -46,7 +46,7 @@ Ratatui is powering a new generation of terminal applications, and I want to mak
 - Get inspired by what's possible with terminal interfaces
 - Contribute to the ratatui ecosystem
 
-## 🤝 Contributing
+## 🎛️ ♾️ Contributing
 
 Found a ratatui project that's not in the registry? Want to improve our tools? Contributions are welcome across all our repositories!
 
