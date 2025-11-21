@@ -56,7 +56,7 @@ Found a ratatui project that's not in the registry? Want to improve our tools? C
 
 If you find ratcrate useful and want to support its development:
 
-- ☕️ [Buy us a coffee on Ko-fi](https://ko-fi.com/ratcrate)
+- ☕️ [Buy us a coffee on Ko-fi](https://ko-fi.com/rvbug)
 - ✅ [Sponsor us on GitHub](https://github.com/sponsors/ratcrate)
 
 Your support helps us:
