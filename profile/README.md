@@ -12,12 +12,12 @@ Ratcrate is your go-to resource for discovering terminal user interface (TUI) ap
 ```markdown
 
 ratcrate-core (data pipeline - Private Repo) 
-      ↓ 
-  ratcrate.json
-      ↓ 
-  ┌───┴────┬────────┐
+          ↓ 
+     ratcrate.json
+          ↓ 
+  ┌───────┴┬────────┐
   ↓        ↓        ↓
-web       cli      tui
+ web      cli      tui
 
 ```
 
