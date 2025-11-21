@@ -1,4 +1,6 @@
-# 🐀 Ratcrate
+#  Ratcrate
+
+<img width="500" height="500" alt="ratcrate-vector" src="https://github.com/user-attachments/assets/01f61be3-4a7c-4bac-a125-01a9f03269e5" />
 
 > A curated registry of **ratatui**-powered terminal applications
 
