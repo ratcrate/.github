@@ -7,6 +7,20 @@
 
 Ratcrate is your go-to resource for discovering terminal user interface (TUI) applications built with [ratatui](https://github.com/ratatui-org/ratatui). We maintain an up-to-date catalog of ratatui-based projects to help developers find inspiration and users discover powerful terminal applications.
 
+# Overview
+
+```markdown
+
+ratcrate-core (data pipeline - Private Repo) 
+      ↓ 
+  ratcrate.json
+      ↓ 
+  ┌───┴────┬────────┐
+  ↓        ↓        ↓
+web       cli      tui
+
+```
+
 ## 📦 Browse the Registry
 
 Visit [ratcrate.github.io](https://ratcrate.github.io) to explore the full catalog of ratatui applications.
