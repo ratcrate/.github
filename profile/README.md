@@ -52,4 +52,20 @@ Found a ratatui project that's not in the registry? Want to improve our tools? C
 
 ---
 
+## 🪴 ♾️ Support the Project
+
+If you find ratcrate useful and want to support its development:
+
+- ☕️ [Buy us a coffee on Ko-fi](https://ko-fi.com/ratcrate)
+- ✅ [Sponsor us on GitHub](https://github.com/sponsors/ratcrate)
+
+Your support helps us:
+- Maintain the domain 
+- Improve the tools and add new features
+- Keep all our projects free and open-source
+- Dedicate more time to the ratatui ecosystem
+
+Every contribution, no matter how small, is greatly appreciated! 
+
+
 *Powered by the [Ratatui](https://github.com/ratatui-org/ratatui) ecosystem* 🐀
