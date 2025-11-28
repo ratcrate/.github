@@ -11,7 +11,7 @@ Ratcrate is your go-to resource for discovering terminal user interface (TUI) ap
 # Overview
 
 **Ratcrate** is a discovery platform for Rust crates in the Ratatui ecosystem. It consists of:
-- `ratcrate-core`: Data fetching and JSON generation
+- `ratcrate-core`: Data fetching and JSON generation (Future - Open Source this repo)
 - `ratcrate-web`: ReactJS based web interface (Future - Convert to Dioxus Rust)
 - `ratcrate-cli`: Command-line interface
 - `ratcrate-tui`: Terminal UI with Ratatui
@@ -41,14 +41,14 @@ Visit [ratcrate.github.io](https://ratcrate.github.io) to explore the full catal
 ## 🔵 ♾️ Why Ratcrate?
 
 Ratatui is powering a new generation of terminal applications, and I want to make it easy to:
-- Discover quality TUI applications
+- Discover amazing TUI applications
 - Find libraries and tools built with ratatui
 - Get inspired by what's possible with terminal interfaces
 - Contribute to the ratatui ecosystem
 
 ## 🎛️ ♾️ Contributing
 
-Found a ratatui project that's not in the registry? Want to improve our tools? Contributions are welcome across all our repositories!
+Found a ratatui project that's not in the registry? Want to improve our tools? Contributions are welcome across all my repositories!
 
 ---
 
@@ -59,13 +59,18 @@ If you find ratcrate useful and want to support its development:
 - ☕️ [Buy us a coffee on Ko-fi](https://ko-fi.com/rvbug)
 - ✅ [Sponsor us on GitHub](https://github.com/sponsors/ratcrate)
 
-Your support helps us:
+Your support helps me:
 - Maintain the domain 
 - Improve the tools and add new features
-- Keep all our projects free and open-source
+- Keep all my projects free and open-source
 - Dedicate more time to the ratatui ecosystem
 
 Every contribution, no matter how small, is greatly appreciated! 
 
+*Powered by the [Ratatui](https://github.com/ratatui-org/ratatui) 🐀 ecosystem*  
 
-*Powered by the [Ratatui](https://github.com/ratatui-org/ratatui) ecosystem* 🐀
+<br><br><br><br>
+
+
+©️ A [QubitAi](https://qubitai.in) Creation
+
